@@ -1,0 +1,103 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.tittle{
+    color: orange;
+}
+.Top-part{
+    display: flex;
+    
+}
+.part-1{
+    width: 50%;
+    padding: 13%;
+}
+.part-1 h1{
+    color:green;
+    
+    
+}
+.part-1 img{
+    width: 100%;
+}
+.btn-1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius:20px ;
+    color: white;
+    
+}
+.banner{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    
+}
+.food-recipies{
+    text-align: center;
+    
+}
+.food-recipies h1{
+    color: gray;
+}
+.Recipi-tittles{
+    margin-top: 50px;
+}
+.recipies-items{
+   width: 40%;
+   margin-left: 5%;
+   margin-right: 5%;
+   border-radius: 5%;
+   padding-left: 2%;
+   box-shadow: 10px 10px 40px gray;
+
+}
+
+.recipies-items img{
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 2%;
+    border-radius: 20%;
+}
+.recipies-items p{ 
+    color: gray;
+}
+.viewer{
+    margin-top: 50px;
+
+}
+.viewer h2{
+    color:red;
+    
+}
+.container{
+   width: 100%;
+   margin-right: 20%;
+   padding-left: 30%;
+   border-radius: 5%;
+   box-shadow: 10px 10px 40px gray;
+}
+.social-media{
+    margin-right: 40px;
+
+}
+#item-1{
+    padding-left: 10px;
+}
+#item-2{
+    padding-right: 46px;
+}
+footer{
+    background-color: black;
+}
+footer h1{
+    text-align: center;
+    color: gray;
+    padding-top: 20px;
+}
+footer p{
+    color: gray;
+    text-align: center;
+    font-weight: 300;
+}
